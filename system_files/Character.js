@@ -34,6 +34,6 @@ class Character {
     }
 }
 
-getHealth()) */
+// getHealth()) */
 
 module.exports = Character;

@@ -1,4 +1,4 @@
-const Potion = require('../lib/Potion');
+const Potion = require('../system_files/Potion');
 const Character = require('./Character');
 
 // ES6 syntax

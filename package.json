@@ -1,5 +1,5 @@
 {
-  "name": "BNTA Fantasy Quest: The rise of Michele",
+  "name": "BNTA-Fantasy-Quest-The-rise-of-Michele",
   "version": "1.0.0",
   "description": "RPG command line game in JS built by group 8 as a mini project for BNTA.",
   "main": "index.js",
@@ -15,8 +15,7 @@
     "application"
   ],
   "author": "Group 8",
-  "bugs": {
-  },
+  "bugs": {},
   "dependencies": {
     "inquirer": "^7.3.3"
   }
