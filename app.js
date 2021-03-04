@@ -1,6 +1,3 @@
-
-
-
-const Game = require('./system_files/Game');
+import {Game} from './lib/Game.js';
 
 new Game().initializeGame();
