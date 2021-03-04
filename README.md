@@ -2,6 +2,6 @@
 
 
 - Utilises the inquires npm external package. 
-- Play as an adevnturer fighting their way past dangerous and eerie enemies of the mystical Bright Network fantasy world.
+- Play as an adventurer fighting their way past dangerous and eerie enemies of the mystical Bright Network fantasy world.
 
 
