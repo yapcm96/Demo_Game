@@ -18,6 +18,7 @@
   "author": "Group 8",
   "bugs": {},
   "dependencies": {
+    "chalk": "^4.1.0",
     "inquirer": "^7.3.3",
     "lodash": "^4.17.21"
   }
